@@ -1,0 +1,31 @@
+Proj Title=HoneygoRn
+Current Plan=p05
+Default Exp/Contr=0,0
+English Units
+Geom File=g05
+Flow File=f01
+Flow File=f02
+Flow File=f04
+Plan File=p02
+Plan File=p03
+Plan File=p05
+Y Axis Title=
+X Axis Title(PF)=
+X Axis Title(XS)=
+BEGIN DESCRIPTION:
+
+END DESCRIPTION:
+DSS Start Date=
+DSS Start Time=
+DSS End Date=
+DSS End Time=
+DSS Export Filename=
+DSS Export Rating Curves= 0 
+DSS Export Rating Curve Sorted= 0 
+DSS Export Volume Flow Curves= 0 
+DXF Filename=..\..\Projects\MDE_MES\Flood Forecasting Pilot Study\Task 2 - Data Acquisition\01_Original_Data\FEMA_Models_fr_USACE\HoneygoRn\HoneygoRn\HoneygoRn\HoneygoRn.
+DXF OffsetX= 0 
+DXF OffsetY= 0 
+DXF ScaleX= 0 
+DXF ScaleY= 0 
+GIS Export Profiles= 0 
